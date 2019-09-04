@@ -1,0 +1,5 @@
+Ahmet  Puanýnýz:3000
+Aslan  Puanýnýz:3200
+melek  Puanýnýz:3500
+Ekrem  Puanýnýz:4400
+Ýsimsiz  Puanýnýz:3200
